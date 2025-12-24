@@ -1,0 +1,13 @@
+{
+	"pack":{
+		"pack_format": 15,
+		"description": "Adds the Globasa language, Basa de Globayen"
+	},
+	"language": {
+		"gb_gy": {
+			"name": "Globasa",
+			"region": "Globa",
+			"bidirectional": "false"
+		}
+	}
+}
