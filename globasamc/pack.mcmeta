@@ -1,13 +1,14 @@
 {
-	"pack":{
-		"pack_format": 15,
-		"description": "Adds the Globasa language, Basa de Globayen"
-	},
-	"language": {
-		"gb_gy": {
-			"name": "Globasa",
-			"region": "Globa",
-			"bidirectional": "false"
-		}
-	}
+  "pack": {
+    "min_format": [75, 0],
+    "max_format": [75, 0],
+    "description": "Globasa language pack"
+  },
+  "language": {
+    "glb_glb": {
+      "name": "Globasa",
+      "region": "Globa",
+      "bidirectional": false
+    }
+  }
 }
