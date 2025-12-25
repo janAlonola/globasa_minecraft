@@ -3,9 +3,9 @@ import json
 from pathlib import Path
 
 # Edit these paths if your repo uses different locations
-EN_PATH = Path("reference/en_us.json")
-GLOBASA_PATH = Path("assets/minecraft/lang/glb_001.json")
-OUT_PATH = Path("assets/minecraft/lang/glb_001.json")  # in-place update
+EN_PATH = Path("reference/en_nz.json")
+GLOBASA_PATH = Path("globasamc/assets/minecraft/lang/glb_glb.json")
+OUT_PATH = Path("globasamc/assets/minecraft/lang/glb_glb.json")  # in-place update
 
 def main():
     en = json.loads(EN_PATH.read_text(encoding="utf-8"))
@@ -21,9 +21,7 @@ def main():
             merged[k] = glb[k]
             kept += 1
         else:
-            # choose one of these strategies:
-            merged[k] = ""          # blank = needs translation
-            # merged[k] = en[k]     # or fallback to English
+            merged[k] = en[k]     # fallback to English
             missing += 1
 
     # (Optional) detect obsolete keys that existed in old file but not anymore
