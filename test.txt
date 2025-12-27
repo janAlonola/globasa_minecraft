@@ -1,0 +1,13 @@
+Diagonal:
+  diagonal_left.black": "Syahe Per Bend Sinister",
+  diagonal_right.black": "Syahe Per Bend",
+  diagonal_up_left.black": "Syahe Per Bend Inverted",
+  diagonal_up_right.black": "Syahe Per Bend Sinister Inverted",
+  cross.black": "Syahe diagonal cross",
+
+Guster?
+  guster.black": "Syahe Guster",
+  
+  stripe_downleft.black": "Syahe Bend Sinister",
+  stripe_downright.black": "Syahe Bend",
+  
