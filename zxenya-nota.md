@@ -53,3 +53,4 @@ You can later return to your original world without losing anything. -> aselli o
 
 X kreaovo / [tosifulexi] X kreaovo -> X-li kreaovo / [tosifulexi] X li kreaovo
 
+How to: Disabled / Enabled; On/Off; Active/Passive
