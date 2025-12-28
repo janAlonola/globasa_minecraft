@@ -51,3 +51,5 @@ Hin world was last played in versyon %s; you are on versyon %s.\n\nHinoto series
 You can later return to your original world without losing anything. -> aselli or aselpul?
 (https://discord.com/channels/636328314176274432/851164043405164544/1384356911012384798)
 
+X kreaovo / [tosifulexi] X kreaovo -> X-li kreaovo / [tosifulexi] X li kreaovo
+
