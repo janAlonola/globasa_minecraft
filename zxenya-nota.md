@@ -53,3 +53,10 @@ You can later return to your original world without losing anything. -> aselli o
 
 X kreaovo / [tosifulexi] X kreaovo -> X-li kreaovo / [tosifulexi] X li kreaovo
 
+"Deep Dark" -> ? is dark a noun here or are they both treated as adjectives
+
+Cambay Oak Planks
+Cambay Oak Stairs
+Polished Tuff Stairs
+Tuff Stairs
+Villager
