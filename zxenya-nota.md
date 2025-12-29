@@ -60,3 +60,11 @@ Cambay Oak Stairs
 Polished Tuff Stairs
 Tuff Stairs
 Villager
+
+How to: Disabled / Enabled; On/Off; Active/Passive
+
+Neter portal -> Neter-portal
+
+junikroa
+
+Katinaya -> katinaje?
