@@ -32,7 +32,7 @@ game mode
 gamemode
 game rule
 gamerule
-Gameplay -> yuxi...? duyuxi?
+Gameplay -> yuxi...? duyuxi? --> yuximaner
 gameplay effects
 Games Quit
 
@@ -68,3 +68,5 @@ Neter portal -> Neter-portal
 junikroa
 
 Katinaya -> katinaje?
+
+Enter / Insert split to Incu / Ingi respectively?
