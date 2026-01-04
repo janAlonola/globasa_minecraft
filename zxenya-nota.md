@@ -70,3 +70,6 @@ junikroa
 Katinaya -> katinaje?
 
 Enter / Insert split to Incu / Ingi respectively?
+
+Wayfinder -> Daoewrekayen
+
